@@ -1,8 +1,8 @@
 # app-dev_Pancho
 My first repository.
 ## **About Me**
-**Name:** Althea O. Pancho
-**Age:** 22 years old
+**Name:** Althea O. Pancho <br>
+**Age:** 22 years old <br>
 **Favorites:**
 - Lavender color
 - Dogs
