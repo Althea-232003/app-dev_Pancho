@@ -2,7 +2,7 @@
 My first repository.
 ## **About Me**
 **Name:** Althea O. Pancho
-## **Age:** 22 years old
+### **Age:** 22 years old
 **Favorites:**
 - Lavender color
 - Dogs
